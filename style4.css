@@ -1,0 +1,14 @@
+td{
+    height: 50px;
+    border: 1px blue dashed;
+}
+tr{
+    background-color: 	#FF7F7F;
+}
+table{
+    border: 1px solid black;
+}
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}

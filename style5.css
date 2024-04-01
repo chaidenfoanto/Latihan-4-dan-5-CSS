@@ -1,0 +1,36 @@
+h1{
+    font-family: Verdana;
+    font-size: 2em;
+    color: #DE101D;
+}
+p{
+    font-size: 14px;
+    color: #850F16;
+    font-family: Garamond;
+    margin-left: 40px;
+}
+h2{
+    margin-left: 15px;
+}
+img{
+    border: 2px solid black;
+    width: 700px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+div{
+    background-color: #DB5B0B;
+    border: 2px solid #8F3C09;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+a{
+    font-style: normal;
+    color: white;
+}
+.center{
+    text-align: center;
+}
